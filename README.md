@@ -11,7 +11,7 @@ I started my journey in cybersecurity by studying it in school, where I learned 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Security                              | <a href="https://google.com">Detection Lab</a>|
+| Network Security                              | <a href="(https://github.com/joseepascale/Network-Security-Set-Up-for-Daycare)">Detection Lab</a>|
 
 ## Tools
 
