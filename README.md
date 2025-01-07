@@ -24,7 +24,7 @@ I started my journey in cybersecurity by studying it in school, where I learned 
 - **Kali Linux**: Leveraged a range of security tools for penetration testing and ethical hacking in controlled environments.
 - **VMware/VirtualBox**: Created and managed virtual machines for testing and experimenting with different security tools in a lab environment.
 - **Network Management**: Configured and secured network devices like switches, firewalls, and routers to ensure safe and efficient network traffic.
-- **Python**: Wrote scripts for automating tasks, analyzing data, and building simple security tools or solutions.
+- **Python**: Used pyhton extensively in machine learning for data analysis.
 
   
 ## Projects
